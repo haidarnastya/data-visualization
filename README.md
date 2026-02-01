@@ -5,7 +5,15 @@ The projects explore a variety of visualization tools and techniques using R, Py
 ## Current Projects
 The repository currently includes the following projects:
 
-1. 
+1. **UN Data Visual Display with D3 and Google Charts**
+   - Designed and built a visual display using HTML to explore UN population data, following concepts from *The Functional Art* by Alberto Cairo.
+   - Selected two UN datasets:
+     - Population proportion over 60 years old
+     - Crude birth rate
+   - Visualizations implemented using:
+     - **D3.js** – custom interactive charts
+     - **Google Charts** – integrated charts 
+   - Used Generative AI (ChatGPT) to assist with design, customization, and implementation of the visual display.
 
 2. **Global Precipitation Data Visualization**
    - Conducted an exploratory data analysis (EDA) on UN precipitation data to explore annual precipitation trends across countries.
